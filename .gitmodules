@@ -1,0 +1,3 @@
+[submodule "subprojects/cores"]
+	path = subprojects/cores
+	url = git@github.com:FFY00/cores.git
